@@ -43,7 +43,10 @@ View(team.data)
 
 # Find the average HP, median HP, min HP and max HP for each of the type of generations
 
-#FIND THE NUMBER OF POKEMONS THAT ARE LEGENDARY THAT HAVE A HIGHER ATTACK THAN DEFENSE VALUE
+#FIND THE NUMBER OF POKEMONS THAT ARE LEGENDARY AND THE NUMBER OF POKEMONS THAT ARE NOT LEGENDARY 
+#THAT HAVE A HIGHER ATTACK THAN DEFENSE VALUE
+#NOTE: IT SHOULD BE DONE IN ONE RUN OF DPLYR
+#HINT : Look into count() function by dplyr
 
 #Find the generation that has the most number of pokemons with Type.1 as "Fire"
 
