@@ -31,8 +31,6 @@ View(team.data)
 # (that also happens to be the greatest team of all time)
 
 
-
-
 ## Let's change gears!
 
 # Read in the Pokemon data from the data directory  
@@ -46,6 +44,8 @@ View(team.data)
 # Find the average HP, median HP, min HP and max HP for each of the type of generations
 
 #FIND THE NUMBER OF POKEMONS THAT ARE LEGENDARY THAT HAVE A HIGHER ATTACK THAN DEFENSE VALUE
+
+#Find the generation that has the most number of pokemons with Type.1 as "Fire"
 
 # WHICH Type 1 pokemon has the overall within group max value of SUM of HP, Attack, Defense, Sp..Att, Sp.Def, Speed
 #HINT : LOOK AT THE DATASET! - THERE IS A SUPER EASY WAY TO DO THIS.
